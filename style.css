@@ -1,0 +1,94 @@
+*{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.music_player{
+    position: fixed;
+    bottom: 21px;
+    width: 1728;
+    height: 60px;
+    box-sizing: border-box;
+}
+.artist{
+    width: 225;
+    height: 70;
+}
+.listen{
+    position: fixed;
+    bottom: 0;
+    height: 21px;
+    width: 1728px;
+    background-color: rgb(73, 216, 73);
+    z-index: 1;
+}
+.sp{
+    margin-left: 600px;
+}
+.vector{
+    position: fixed;
+    bottom: 21px;
+    margin-left: 790px;
+    z-index: 1;
+}
+
+.left-section{
+    width: 252px;
+    height: 780px;
+    background-color: black;
+    font-size: small;
+    position: sticky;
+    top: 0px;
+    bottom: 80px;
+}
+.home,.search,.library,.c-play,.episode,.liked
+{
+    height: 40px;
+    width: 190px;
+    line-height: 40px;
+    border-radius: 5px;
+}
+.podcast{
+    margin-left: -18px;
+}
+.fav,.install{
+    font-weight: 600;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.main{
+    width: 806px;
+    background-color: #141414;
+}
+.ls{
+    background-color: #303030;
+    width: 200px;
+    height: 50px;
+    border-radius: 3px;
+}
+.ls>div{
+    font-size: small;
+}
+.ben{
+    color: gray;
+    font-size: small;
+}
+.see{
+    color: gray;
+    font-size: x-small;
+    margin-right: 20px;
+}
+.artist1{
+    background-color: #181818;
+    width:140px ;
+    height:160px;
+    margin-right: 15px;
+}
+.artists{
+    margin-right: 100px;
+}
+.week{
+    font-size: small;
+}
+
+  
