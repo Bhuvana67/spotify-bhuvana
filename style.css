@@ -6,7 +6,7 @@
     position: fixed;
     bottom: 21px;
     width: 1728;
-    height: 60px;
+    height: 80px;
     box-sizing: border-box;
 }
 .artist{
@@ -32,8 +32,8 @@
 }
 
 .left-section{
-    width: 252px;
-    height: 780px;
+    width: 372px;
+    height: 982px;
     background-color: black;
     font-size: small;
     position: sticky;
@@ -57,8 +57,14 @@
 }
 
 .main{
-    width: 806px;
+    width: 1356px;
     background-color: #141414;
+}
+.gm
+{
+    width: 1147px;
+    height: 294px;
+    margin-right: 80px;
 }
 .ls{
     background-color: #303030;
@@ -86,6 +92,8 @@
 }
 .artists{
     margin-right: 100px;
+    width: 1103px;
+    height: 664px;
 }
 .week{
     font-size: small;
