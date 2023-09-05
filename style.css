@@ -6,7 +6,7 @@
     position: fixed;
     bottom: 21px;
     width: 1728;
-    height: 112px;
+    height: 80px;
     box-sizing: border-box;
 }
 .artist{
@@ -27,12 +27,12 @@
 .vector{
     position: fixed;
     bottom: 21px;
-    margin-right: 200px;
+    margin-left: 1200px;
     z-index: 1;
 }
 
 .left-section{
-    width: 372px;
+    width: 400px;
     height: 982px;
     background-color: black;
     font-size: large;
@@ -65,7 +65,7 @@
 }
 .ls{
     background-color: #303030;
-    width: 300px;
+    width: 250px;
     height: 80px;
     border-radius: 3px;
 }
@@ -84,7 +84,7 @@
 }
 .artist1{
     background-color: #181818;
-    width:250px ;
+    width:200px ;
     height:313px;
     margin-right: 15px;
 }
