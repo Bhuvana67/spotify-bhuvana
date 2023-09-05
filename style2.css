@@ -39,7 +39,7 @@
 }
 .top-right{
     background-image: linear-gradient(#88a49d,#394542);
-    width: 1458px;
+    width: 1058px;
     height: 350px;
 }
 .details{
@@ -50,6 +50,6 @@
 }
 .bot-right{
     background-image: linear-gradient(#2c3533,black);
-    width:1458px ;
+    width:1058px ;
     height: 700px;
 }
