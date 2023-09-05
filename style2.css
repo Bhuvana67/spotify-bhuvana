@@ -39,7 +39,7 @@
 }
 .top-right{
     background-image: linear-gradient(#88a49d,#394542);
-    width: 1010px;
+    width: 1000px;
     height: 350px;
 }
 .details{
@@ -50,7 +50,7 @@
 }
 .bot-right{
     background-image: linear-gradient(#2c3533,black);
-    width:1010px ;
+    width:1000px ;
     height: 700px;
 }
 .play{
@@ -61,7 +61,7 @@
 }
 .rows{
     background-color: #4a4f4e;
-    width: 950px;
+    width: 940px;
     border-radius: 5px;
 }
 .album{
