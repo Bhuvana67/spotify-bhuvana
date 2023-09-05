@@ -39,7 +39,7 @@
 }
 .top-right{
     background-image: linear-gradient(#88a49d,#394542);
-    width: 1058px;
+    width: 1010px;
     height: 350px;
 }
 .details{
@@ -50,6 +50,30 @@
 }
 .bot-right{
     background-image: linear-gradient(#2c3533,black);
-    width:1058px ;
+    width:1010px ;
     height: 700px;
+}
+.play{
+    height: 50px;
+}
+.play>p{
+    font-size: xx-small;
+}
+.rows{
+    background-color: #4a4f4e;
+    width: 950px;
+    border-radius: 5px;
+}
+.album{
+    margin-left: -20px;
+    margin-top: 20px;
+}
+.date{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.row1
+{
+    width: 950px;
+    border-radius: 5px;
 }
