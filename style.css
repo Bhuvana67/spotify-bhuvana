@@ -22,12 +22,12 @@
     z-index: 1;
 }
 .sp{
-    margin-left: 800px;
+    margin-left: 900px;
 }
 .vector{
     position: fixed;
     bottom: 21px;
-    right:100px;
+    right:120px;
     z-index: 1;
 }
 
@@ -43,7 +43,7 @@
 .home,.search,.library,.c-play,.episode,.liked
 {
     height: 40px;
-    width: 200px;
+    width: 220px;
     line-height: 40px;
     border-radius: 5px;
 }
@@ -96,4 +96,8 @@
     width: 211px;
     height: 27px;
 }
-  
+
+a{
+    color: white;
+    text-decoration: none;
+}
